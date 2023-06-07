@@ -1,4 +1,4 @@
-# projects
+# Spam Detection Machine Learning Project
 Y3S1 Project for BC3409 (AI in Accounting and Finance)
 
 Text Classification for Email Spam Dectection
